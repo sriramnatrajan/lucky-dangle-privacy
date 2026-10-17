@@ -1,8 +1,8 @@
-# Lucky Dangle — Privacy Policy
+# Lucky Charm Widget — Privacy Policy
 
-Public privacy policy for the Android app **Lucky Dangle** (`com.luckydanglecharm.android`).
+Public privacy policy for the Android app **Lucky Charm Widget** (`com.luckydanglecharm.android`).
 
-Live page (after GitHub Pages is enabled):
+Live page:
 
 https://sriramnatrajan.github.io/lucky-dangle-privacy/
 
